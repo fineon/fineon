@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -15,27 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----json
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "Comprehensive List of My Dev Tools",
-  "image": "",  
-  "author": {
-    "@type": "Person",
-    "name": "Ian Nguyen"
-  },  
-  "publisher": {
-    "@type": "Organization",
-    "name": "",
-    "logo": {
-      "@type": "ImageObject",
-      "url": ""
-    }
-  },
-  "datePublished": ""
-}
----
 
 # Overview of My Dev Tools
 I'm creating this doc to keep track of what I have learnt, and what tools I have used to create things. 
